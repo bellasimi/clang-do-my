@@ -1,0 +1,33 @@
+﻿  chap01-sysinfo.c
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(18,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(19,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(20,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(21,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(22,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(23,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(26,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(26,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(27,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(27,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(28,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(28,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(29,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(29,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(30,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(30,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(31,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(31,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(33,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\workspace\clang-do-my\do_it solution\chap01-sysinfo\chap01-sysinfo.c(33,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  코드를 생성하고 있습니다.
+  3 of 4 functions (75.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  chap01-sysinfo.vcxproj -> C:\workspace\clang-do-my\do_it solution\x64\Release\chap01-sysinfo.exe
