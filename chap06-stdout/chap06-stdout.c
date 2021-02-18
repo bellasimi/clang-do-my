@@ -50,6 +50,7 @@ void main()
 
 void putstest4()
 {
+
 	puts("표준 스트링 함수!");
 	puts(TITLE);
 

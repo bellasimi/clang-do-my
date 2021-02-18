@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.c
+C:\workspace\clang-do-my\ConsoleApplication1\ConsoleApplication1.c(21,9): warning C4477: 'printf' : 서식 문자열 '%5d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+C:\workspace\clang-do-my\ConsoleApplication1\ConsoleApplication1.c(10,1): warning C4305: '초기화 중': 'int'에서 'float'(으)로 잘립니다.
+C:\workspace\clang-do-my\ConsoleApplication1\ConsoleApplication1.c(44,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+C:\workspace\clang-do-my\ConsoleApplication1\ConsoleApplication1.c(37,1): warning C4305: '초기화 중': 'int'에서 'float'(으)로 잘립니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\workspace\clang-do-my\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

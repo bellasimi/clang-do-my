@@ -1,0 +1,6 @@
+﻿  chap06-printf.c
+C:\workspace\clang-do-my\chap06-printf\chap06-printf.c(113,9): warning C4477: 'printf' : 서식 문자열 '%5d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+C:\workspace\clang-do-my\chap06-printf\chap06-printf.c(101,1): warning C4305: '초기화 중': 'int'에서 'float'(으)로 잘립니다.
+C:\workspace\clang-do-my\chap06-printf\chap06-printf.c(137,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+C:\workspace\clang-do-my\chap06-printf\chap06-printf.c(128,1): warning C4305: '초기화 중': 'int'에서 'float'(으)로 잘립니다.
+  chap06-printf.vcxproj -> C:\workspace\clang-do-my\Debug\chap06-printf.exe
