@@ -1,6 +1,9 @@
 ﻿/*
 c표준 라이브러리와 표준 출력함수 P.119
 ---------------------------------------
+putchar() 함수는 영어 한단어만 출력할 수 있다. 문장은 노노
+printf() 함수는 모든 언어 문장출력 가능 
+---------------------------------------
 puts(char const* _Buffer);
 const: constant(상수형, 불변) - 바꿀 수 없는 값.
 variable: 변수, var
@@ -28,8 +31,20 @@ void main()
 	//putchartest1(); 호출시 리턴 타입 필요없음
 	//putchartest1();
 	//putchartest2();
-	putctest3();
-	putstest4();
+	int x = putchar(1024);
+	printf("x(%c)(%d)\n", x, x);
+	putchar('\n');
+	putchar(254);
+	putchar('\n');
+	putchar(128);
+	putchar('\n');
+	putchar(159);
+	putchar('\n');
+	putchar(208);
+
+
+	//putctest3();
+	//putstest4();
 }
 
 

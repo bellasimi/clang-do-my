@@ -1,0 +1,4 @@
+﻿  chap06-stdout.c
+C:\workspace\clang-do-my\chap06-stdout\chap06-stdout.c(63,25): warning C4047: '함수': 'int'의 간접 참조 수준이 'char [33]'과(와) 다릅니다.
+C:\workspace\clang-do-my\chap06-stdout\chap06-stdout.c(63,20): warning C4024: 'putchar': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  chap06-stdout.vcxproj -> C:\workspace\clang-do-my\x64\Debug\chap06-stdout.exe
