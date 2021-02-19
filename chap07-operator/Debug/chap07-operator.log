@@ -1,3 +1,2 @@
-﻿  chap07-operator.c
-C:\workspace\clang-do-my\chap07-operator\chap07-operator.c(86,1): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  chap07-relational.c
   chap07-operator.vcxproj -> C:\workspace\clang-do-my\Debug\chap07-operator.exe

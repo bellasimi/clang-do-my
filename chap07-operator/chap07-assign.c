@@ -22,14 +22,15 @@ void assignFloatDouble();
 void assignuint();
 void assigncasting();
 void assignCastingReal();
-
+void assignLoss();
 void main()
-{
+ {
 	//assignint();
 	//assignFloatDouble();
 	//assignuint();
-	assigncasting();
+	//assigncasting();
 	//assignCastingReal();
+	assignLoss();
 }
 
 /*
@@ -135,3 +136,17 @@ void assignCastingReal()
 	printf("Double -> float: b(%15.10f) -> c(%15.10f)\n", b, c);
 }
 
+/*
+큰 자료형의 데이터를 작은 자료형으로 대입하면 손실이 발생할 수 있다.
+*/
+void assignLoss()
+{
+	int d = 255;
+	int d2 = 256;
+	char c1 = (char)d;
+	char c2 = (char)d2;
+
+
+	printf("d(%d(%08x)),d2(%d)(%08x),c1(%d)(%x),2(%d)(%x)", d,d,d2, d2,c1,c1,c2,c2);
+
+}
